@@ -1,4 +1,4 @@
-# Formateador HDD
+# Formateador HDD (32 Bits)
 
 :bangbang: **Atencion: este programa formatea discos duros, pruebese sobre una unidad virtual. No me hago responsable de su uso inadecuado.**
 
